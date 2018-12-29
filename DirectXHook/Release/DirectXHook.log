@@ -1,0 +1,8 @@
+﻿  Generating code
+  0 of 61 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+detours.lib(detours.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detours.lib(detours.obj)' or at 'C:\Users\master\Desktop\DirectXHooks\DirectXHook\Release\detours.pdb'; linking object as if no debug info
+detours.lib(disasm.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detours.lib(disasm.obj)' or at 'C:\Users\master\Desktop\DirectXHooks\DirectXHook\Release\detours.pdb'; linking object as if no debug info
+  DirectXHook.vcxproj -> C:\Users\master\Desktop\DirectXHooks\DirectXHook\Release\DirectXHook.dll
